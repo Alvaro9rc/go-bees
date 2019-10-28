@@ -42,3 +42,12 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+
+
+##PARTICIPANTES DEL GRUPO:
+
+1.-Álvaro Rodríguez Carpintero
+2.-Alberto Porres Fernández
+3.- Alejandro Romero Juarros
+4.- Dorota Wisniewska
+5.- Kacper Kotyla
